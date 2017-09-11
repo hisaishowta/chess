@@ -1,0 +1,47 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     1130 MB
+    Driver:   20.19.15.4549
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\shisai\Desktop\久井晶太\CHESS\chess_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\shisai\Desktop\久井晶太\CHESS\chess_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\shisai\Desktop\久井晶太\CHESS\chess_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\shisai\Desktop\久井晶太\CHESS\chess_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\shisai\Desktop\久井晶太\CHESS\chess_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\shisai\Desktop\久井晶太\CHESS\chess_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\shisai\Desktop\久井晶太\CHESS\chess_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\shisai\Desktop\久井晶太\CHESS\chess_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\shisai\Desktop\久井晶太\CHESS\chess_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\shisai\Desktop\久井晶太\CHESS\chess_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\shisai\Desktop\久井晶太\CHESS\chess_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\shisai\Desktop\久井晶太\CHESS\chess_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\shisai\Desktop\久井晶太\CHESS\chess_Data\Managed\LitJson.dll (this message is harmless)
+Loading C:\Users\shisai\Desktop\久井晶太\CHESS\chess_Data\Managed\LitJson.dll into Unity Child Domain
+- Completed reload, in  0.236 seconds
+Platform assembly: C:\Users\shisai\Desktop\久井晶太\CHESS\chess_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\shisai\Desktop\久井晶太\CHESS\chess_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 2.362706 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1a88 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.926232 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 356.
+Total: 0.751816 ms (FindLiveObjects: 0.070819 ms CreateObjectMapping: 0.071332 ms MarkObjects: 0.566556 ms  DeleteObjects: 0.022580 ms)
+
+P1setValueWithKey Finished:[{"key":"userdata_0","value":"{\"roomid\":0,\"fromZid\":0,\"fromXid\":0,\"toZid\":0,\"toXid\":0,\"turnid\":0,\"castid\":0,\"enid\":0,\"proid\":0}"}]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+P2setValueWithKey Finished:[{"key":"userdata_1","value":"{\"roomid\":0,\"fromZid\":0,\"fromXid\":0,\"toZid\":0,\"toXid\":0,\"turnid\":0,\"castid\":0,\"enid\":0,\"proid\":0}"}]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

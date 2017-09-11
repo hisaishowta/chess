@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: f9cb21b0a9ba02b46bca28ba757ec560
+timeCreated: 1502240341
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip003
+    100002: Bip003 Footsteps
+    100004: Bip003 Head
+    100006: Bip003 HeadNub
+    100008: Bip003 L Calf
+    100010: Bip003 L Clavicle
+    100012: Bip003 L Foot
+    100014: Bip003 L Forearm
+    100016: Bip003 L Hand
+    100018: Bip003 L Thigh
+    100020: Bip003 L Toe0
+    100022: Bip003 L Toe0Nub
+    100024: Bip003 L UpperArm
+    100026: Bip003 Neck
+    100028: Bip003 Pelvis
+    100030: Bip003 R Calf
+    100032: Bip003 R Clavicle
+    100034: Bip003 R Foot
+    100036: Bip003 R Forearm
+    100038: Bip003 R Hand
+    100040: Bip003 R Thigh
+    100042: Bip003 R Toe0
+    100044: Bip003 R Toe0Nub
+    100046: Bip003 R UpperArm
+    100048: Bip003 Spine
+    100050: "Bip003 \u30DD\u30CB\u30FC\u30C6\u30FC\u30EB 1"
+    100052: "Bip003 \u30DD\u30CB\u30FC\u30C6\u30FC\u30EB 11"
+    100054: "Bip003 \u30DD\u30CB\u30FC\u30C6\u30FC\u30EB 12"
+    100056: "Bip003 \u30DD\u30CB\u30FC\u30C6\u30FC\u30EB 1Nub"
+    100058: //RootNode
+    100060: Pown_body009
+    100062: Sphere006
+    400000: Bip003
+    400002: Bip003 Footsteps
+    400004: Bip003 Head
+    400006: Bip003 HeadNub
+    400008: Bip003 L Calf
+    400010: Bip003 L Clavicle
+    400012: Bip003 L Foot
+    400014: Bip003 L Forearm
+    400016: Bip003 L Hand
+    400018: Bip003 L Thigh
+    400020: Bip003 L Toe0
+    400022: Bip003 L Toe0Nub
+    400024: Bip003 L UpperArm
+    400026: Bip003 Neck
+    400028: Bip003 Pelvis
+    400030: Bip003 R Calf
+    400032: Bip003 R Clavicle
+    400034: Bip003 R Foot
+    400036: Bip003 R Forearm
+    400038: Bip003 R Hand
+    400040: Bip003 R Thigh
+    400042: Bip003 R Toe0
+    400044: Bip003 R Toe0Nub
+    400046: Bip003 R UpperArm
+    400048: Bip003 Spine
+    400050: "Bip003 \u30DD\u30CB\u30FC\u30C6\u30FC\u30EB 1"
+    400052: "Bip003 \u30DD\u30CB\u30FC\u30C6\u30FC\u30EB 11"
+    400054: "Bip003 \u30DD\u30CB\u30FC\u30C6\u30FC\u30EB 12"
+    400056: "Bip003 \u30DD\u30CB\u30FC\u30C6\u30FC\u30EB 1Nub"
+    400058: //RootNode
+    400060: Pown_body009
+    400062: Sphere006
+    4300000: Sphere006
+    4300002: Pown_body009
+    9500000: //RootNode
+    13700000: Pown_body009
+    13700002: Sphere006
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

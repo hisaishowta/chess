@@ -1,0 +1,16 @@
+{
+    "name": "foo",
+    "age": 24,
+    "weight": 55.8,
+    "married": true,
+    "birthday": "1990-08-30 03:38:13",
+    "friends": [
+        {
+            "name": "bar",
+            "age": 25,
+            "weight": 50.2,
+            "married": false,
+            "birthday": "1989-04-01 15:02:47"
+        }
+    ]
+}
